@@ -5,7 +5,9 @@ creating a beautiful design of Dashboard with Scrollable Search bar widget in Fl
 
 # Screenshot
 
-![Alt text](/assets/screenshot1.png?raw=true "Dashobard Screen")
+![Alt text](/assets/screenshot0.png?raw=true "Dashobard Screen 1")
+
+![Alt text](/assets/screenshot1.png?raw=true "Dashobard Screen 2")
 
 # Features
 
